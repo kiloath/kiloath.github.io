@@ -1,6 +1,6 @@
 [book]
 authors = ["Peter"]
-language = "en"
+language = "zh"
 multilingual = false
 src = "src"
-title = "mdbook"
+title = "Myth Of C"
