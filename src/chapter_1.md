@@ -3,7 +3,7 @@
   ```
   cargo install mdbook
   ```
-* 所以自行下載, 解壓縮後放到${home}.cargo\bin\下就好
+* 所以自行下載, 解壓縮後放到${home}\\.cargo\bin\下就好
     * [mdbook v0.4.43](https://github.com/rust-lang/mdBook/releases/download/v0.4.43/mdbook-v0.4.43-x86_64-pc-windows-msvc.zip)
 * 指令
     ```
