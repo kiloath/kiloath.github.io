@@ -2,6 +2,9 @@
 # 安裝
 - [安裝Hyper-V](./install/hyperv.md)
 - [安裝SandBox](./install/sandbox.md)
+- [安裝wsl](./install/wsl.md)
+- [安裝vmware](./install/vmware.md)
+- [安裝win docker](./install/windocker.md)
 # Summary
 - [01 練習](./class_01.md)
 - [diplomat](diplomat/index.md)
