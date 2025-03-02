@@ -1,3 +1,6 @@
+- [Kiloath](kiloath.md)
+# 安裝
+- [安裝Hyper-V](./install/hyperv.md)
 # Summary
 - [01 練習](./class_01.md)
 - [diplomat](diplomat/index.md)
