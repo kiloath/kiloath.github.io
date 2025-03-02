@@ -38,5 +38,13 @@ windows docker
     docker context create win --docker "host=npipe:////./pipe/docker_engine_windows"
     docker context use win
     ```
+  - 設定powershell
+    ```
+    notepad $PROFILE
+    ```
+  - $PROFILE
+    ```
+    Set-Alias docker "$HOME\KiloathApp\docker\docker\docker.exe"
+    ```
 
 
