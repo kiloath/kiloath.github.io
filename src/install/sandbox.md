@@ -1,5 +1,5 @@
 
-安裝SandBox
+安裝sandbox
 ===
 - 前提:
   - 主機板支援
